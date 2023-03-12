@@ -6,7 +6,7 @@ import { useFrame } from 'react-three-fiber';
 import { useRef, useState } from 'react';
 import { BoxGeometry, MeshBasicMaterial, Mesh, MeshLambertMaterial } from 'three';
 //import { THREE } from 'three';
-import sound from './mp3/Muddy_Waters_-_Mannish_Boy_(Audio)_(128 kbps).mp3'
+import sound from './mp3/modern-vlog-140795.mp3'
 
 var intensity = 0.5;
 var backgroundMusic = new Audio('https://live.rockfm.ro/rockfm.aacp');
